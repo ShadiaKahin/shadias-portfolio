@@ -1,14 +1,34 @@
 .projects-section {
     border: 1px solid black;
+    background-color: rgb(234,
+        224,
+        213);
+
 }
 
-.image {
+.projects-section::after {
+    content: "";
+    clear: both;
+    display: table;
+}
 
-    max-width: 70%;
+
+.image {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+    border-radius: 0.5rem;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    opacity: 0.5;
+}
+    
+.image:hover {
+        opacity: 1.0;
+    }
+    /* max-width: 70%;
     height: auto;
     padding: 20px;
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
-}
+    width: 50%; */

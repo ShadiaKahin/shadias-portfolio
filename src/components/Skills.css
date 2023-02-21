@@ -1,3 +1,11 @@
 .skills-section {
   border: 1px solid black;
+  background-color: rgb(120, 89, 100);
+}
+
+.list-of-skills {
+  border: solid black;
+  border-width: 1px;
+  border-left-width: 8px;
+  border-radius: 0.5rem;
 }

@@ -1,9 +1,10 @@
+import './Skills.css'
 export default function Skills() {
     return (
         <div className="skills-section">
-          <h1>Skills Section</h1>
+          <h1>Skills</h1>
             
-            <ul>
+            <ul className='list-of-skills'>
                 <li>JavaScript</li>
                 <li>NodeJS</li>
                 <li>HTML</li>

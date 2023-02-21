@@ -1,10 +1,11 @@
 import About from '../components/About';
 import Skills from '../components/Skills';
 import Projects from '../components/Projects';
+import './Home.css'
 
 export default function Home() {
     return (
-        <div>
+        <div className='home'>
             Home page
             <About />
             <Skills />

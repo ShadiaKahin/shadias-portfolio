@@ -5,6 +5,9 @@
     bottom: 0;
     height: 100px;
     width: 100%;
+    background-color: rgba(192,
+        110,
+        82, 50%);
 }
 
 html {
@@ -17,10 +20,8 @@ body {
     /* bottom = footer height */
  }
 
-/* #bottom-footer {
-    position: absolute;
-    left: 0;
-    bottom: 0;
-    height: 100px;
-    width: 100%;
-} */
+ .top {
+    text-align: center;
+
+ }
+
