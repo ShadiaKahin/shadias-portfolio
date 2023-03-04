@@ -1,8 +1,12 @@
+.projects-header {
+    font-family: cursive;
+}
+
 .projects-section {
     border: 1px solid black;
-    background-color: rgb(234,
-        224,
-        213);
+    background-color: #fdfef6;
+    padding: 5%;
+    font-size: x-large;
 
 }
 
@@ -12,6 +16,10 @@
     display: table;
 }
 
+.image-container {
+display: flex;
+flex-direction: column;
+}
 
 .image {
     float: left;
@@ -20,15 +28,17 @@
     border-radius: 0.5rem;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     opacity: 0.5;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+    background-color: rgb(235, 212, 203);
+    ;
 }
-    
+
 .image:hover {
-        opacity: 1.0;
-    }
-    /* max-width: 70%;
-    height: auto;
-    padding: 20px;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%; */
+    opacity: 1.0;
+}
+
+/* 320px — 480px: Mobile devices 481px — 768px: iPads,
+Tablets 769px — 1024px: Small screens,
+laptops 1025px — 1200px: Desktops,
+large screens 1201px and more — Extra large screens,
+TV */
