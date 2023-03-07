@@ -14,7 +14,7 @@ export default function Projects() {
             <h1 className='projects-header'>Projects</h1>
             <div className='image-container'>
                 <div>
-                    <img className='image' src={image1} alt="noughts and crosses" />
+                    <a href='https://cool-sawine-53e86b.netlify.app/'><img className='image' src={image1} alt="noughts and crosses" /></a>
                     A frontend noughts and crosses game using HTML and CSS.
                 </div>
                 <div>
