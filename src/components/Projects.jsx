@@ -18,7 +18,7 @@ export default function Projects() {
                     A frontend noughts and crosses game using HTML and CSS.
                 </div>
                 <div>
-                    <img className='image' src={image2} alt="dictionary" />
+                    <a href='https://beautiful-zabaione-9b86e4.netlify.app/'><img className='image' src={image2} alt="dictionary" /></a>
                     A Dictionary app using a public API, ReactJS, CSS
                 </div>
                 <div>
