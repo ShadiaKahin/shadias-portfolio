@@ -22,7 +22,7 @@ export default function Projects() {
                     A Dictionary app using a public API, ReactJS, CSS
                 </div>
                 <div>
-                    <img className='image' src={image3} alt="calculator" />
+                    <a href='https://my-calculator-app-red.vercel.app/'><img className='image' src={image3} alt="calculator" /></a>
                 </div>
                 <div>
                     <img className='image' src={image4} alt="clothing website"/>
