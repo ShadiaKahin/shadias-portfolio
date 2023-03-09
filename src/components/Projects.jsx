@@ -25,7 +25,7 @@ export default function Projects() {
                     <a href='https://my-calculator-app-red.vercel.app/'><img className='image' src={image3} alt="calculator" /></a>
                 </div>
                 <div>
-                    <img className='image' src={image4} alt="clothing website"/>
+                    <a href='https://the-changing-room.vercel.app'><img className='image' src={image4} alt="clothing website" /></a>
                 </div>
             </div>
         </div>
