@@ -1,5 +1,5 @@
 .projects-header {
-    font-family: cursive;
+    font-family: monospace;
 }
 
 .projects-section {
@@ -7,6 +7,7 @@
     background-color: #fdfef6;
     padding: 5%;
     font-size: x-large;
+    font-family: monospace;
 
 }
 
@@ -17,8 +18,8 @@
 }
 
 .image-container {
-display: flex;
-flex-direction: column;
+    display: flex;
+    flex-direction: column;
 }
 
 .image {

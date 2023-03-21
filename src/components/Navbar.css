@@ -1,9 +1,10 @@
 .site-name {
     font-size: 2rem;
+    font-family: monospace;
 }
 
 .nav {
-    background-color: black;
+    background-color: tan;
     color: white;
     display: flex;
     justify-content: space-between;
@@ -37,3 +38,4 @@
 .nav li:hover {
     background-color: #777;
 }
+

@@ -6,7 +6,7 @@ export default function About() {
             <h1 className='about-header'>About Me</h1>
 
             <p className='about-me'>Full-stack JavaScript Developer. Pursuing a role
-            in creating outstanding web and mobile applications. Passionate about solving human problems with the most efficient technologies.
+                in creating outstanding web and mobile applications. Passionate about solving human problems with the most efficient technologies. Enjoy the idea of working with development and design teams to build excellent software products.
                 </p> 
 
         </div>
