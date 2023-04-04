@@ -19,13 +19,15 @@ export default function Projects() {
                 </div>
                 <div>
                     <a href='https://beautiful-zabaione-9b86e4.netlify.app/'><img className='image' src={image2} alt="dictionary" /></a>
-                    A Dictionary app using a public API, ReactJS, CSS
+                    A Dictionary app using a public API, ReactJS, CSS.
                 </div>
                 <div>
                     <a href='https://my-calculator-app-red.vercel.app/'><img className='image' src={image3} alt="calculator" /></a>
+                    A frontend React app using react, Javascript, HTML and CSS.
                 </div>
                 <div>
                     <a href='https://the-changing-room.vercel.app'><img className='image' src={image4} alt="clothing website" /></a>
+                    a Fullstack Vue.js app with Supabase backend.
                 </div>
             </div>
         </div>
