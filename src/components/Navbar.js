@@ -3,7 +3,7 @@ import './Navbar.css'
 
 export default function Navbar() {
     return <nav className="nav">
-        <a href="/" className="site-name"><strong>Shadia Kahin</strong></a>
+        {/* <a href="/" className="site-name"></a> */}
         <ul>
             <li className="active">
                 <a href="/">test</a>
