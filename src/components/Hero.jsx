@@ -12,7 +12,7 @@ function Hero() {
                 Hi, I'm Shadia Kahin
                 <br />
                 <br />
-                A Software Developer
+                A Software Developer from Manchester
             </div>
 
         </div>
